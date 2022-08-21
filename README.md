@@ -6,12 +6,12 @@
 #### Connect with me 
 <a href="https://www.linkedin.com/in/festus-agbo-39b404190/"><img src="images/linkedin.png" width="60" /></a>
 
-<a href=""><img src="images/twitter.png" width="60" /></a>
+<a href="https://twitter.com/festuspete"><img src="images/twitter.png" width="60" /></a>
 
  #### My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
 <code><img src="images/css.jpg" width="60" title="CSS" /></code>
-<code><img src="images/javascript.png" width="60" title="JavaScript" /></code>o
+<code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
 
 - 😄 Pronouns: He, Him. 
 
