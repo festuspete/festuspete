@@ -8,6 +8,8 @@
 
 <a href="https://twitter.com/festuspete"><img src="images/twitter.png" width="60" /></a>
 
+<img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
  #### My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
 <code><img src="images/css.jpg" width="60" title="CSS" /></code>
