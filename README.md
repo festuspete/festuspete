@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Festus Peter Agbo
 #### Backend Developer || Tech enthusiast
-![Backend Developer || Tech enthusiast](https://github.com/festuspete/festuspete/blob/main/github-header-image.png)
+![Backend Developer || Tech enthusiast](/images/github-header-image.png)
 
 
 #### Connect with me 
